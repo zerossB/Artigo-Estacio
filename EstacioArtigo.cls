@@ -7,6 +7,7 @@
 \usepackage[a4paper, margin=2.5cm]{geometry}
 \usepackage{mathptmx}
 \usepackage{hyperref}
+\usepackage{lipsum}
 
 \renewcommand{\maketitle}{%
     \begin{center}
@@ -20,4 +21,12 @@
             }
         }
     \end{center}
+}
+
+\newcommand{\makeresume}[1]{%
+    \textit{Resumo: #1}
+}
+
+\newcommand{\makekeywords}[1]{%
+    \textit{Palavras-chaves: #1}
 }
