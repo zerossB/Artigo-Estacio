@@ -17,9 +17,15 @@
     \begin{center}
         \underline{
             \textsc{
-                \@author
+                HAYNES, G., Centro Universitário Estácio, \href{mailto:guilherme.howe@live.estacio.br}{guilherme.howe@live.estacio.br}
             }
         }
+        \underline{
+            \textsc{
+                ALBINO, G., Faculdades Logatti, \href{mailto:guilherme.albino.francisco@gmail.com}{guilherme.albino.francisco@gmail.com}
+            }
+        }
+        \vspace{.03cm}
     \end{center}
 }
 
