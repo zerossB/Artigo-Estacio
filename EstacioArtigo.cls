@@ -8,6 +8,7 @@
 \usepackage{mathptmx}
 \usepackage{hyperref}
 \usepackage{lipsum}
+\usepackage{graphicx}
 
 \renewcommand{\maketitle}{%
     \begin{center}
