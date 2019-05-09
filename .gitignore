@@ -38,3 +38,5 @@ documento.pdf
 *.locf
 *.out
 *.rtf
+
+*.1*.tex
