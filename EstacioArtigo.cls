@@ -1,6 +1,6 @@
 \LoadClass[12pt]{article}
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{estacio}[2014/08/16 Example LaTeX class]
+\ProvidesClass{EstacioArtigo}[2014/08/16 Example LaTeX class]
 
 \usepackage[utf8]{inputenc}
 \usepackage[portuguese]{babel}
